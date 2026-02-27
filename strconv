@@ -1,0 +1,5 @@
+x=10
+y=float(x)
+z=str(x)
+a=bool(x)
+print(x,y,z,a)
