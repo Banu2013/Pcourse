@@ -1,0 +1,6 @@
+num=7.5
+print("the number:",num)
+print("type:",type(num))
+num1=int(num)
+print("number:",num1)
+print("type:",type(num1))

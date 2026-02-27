@@ -1,0 +1,5 @@
+princ=1000
+rate=7
+time=6
+si=(princ*rate*time)/100
+print("SI is:",si)

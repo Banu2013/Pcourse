@@ -1,0 +1,5 @@
+mins=142
+hours=mins//60
+remain=mins%60
+print("Hours:",hours)
+print("Remains:",remain)
