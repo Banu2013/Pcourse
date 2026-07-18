@@ -1,0 +1,10 @@
+{
+    "header_row": 8,
+    "data_start_row": 9,
+    "vse_sheet": "VSE_BOM",
+    "review_sheet": "Verification",
+    "customer_part_column": "Customer P/N",
+    "vse_customer_column": "Cust Item",
+    "output_folder": "Output",
+    "log_level": "INFO"
+}
